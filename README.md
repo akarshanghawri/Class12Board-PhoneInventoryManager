@@ -1,6 +1,7 @@
 PhoneInventoryManager is an all-in-one inventory and customer management system tailored for mobile phone retailers. It streamlines tasks like managing inventory, customer details, orders, and billing processes, helping store owners and staff save time and reduce errors.
 
 Key Features:
+
 1.Inventory Management:
 Add new phone records with details like model, brand, storage, color, price, and stock quantity.
 Update records to reflect changes in stock or pricing.
