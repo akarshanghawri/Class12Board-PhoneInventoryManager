@@ -1,0 +1,2 @@
+# PhoneInventoryManager
+ PhoneInventoryManager is a comprehensive inventory and customer management system designed for mobile phone retailers. This application helps store owners and staff efficiently manage their inventory, customer information, orders, and billing processes. The system automates various tasks, such as generating unique IDs for phones, customers, orders, and bills, updating stock quantities, applying discounts, and recording transactions.
