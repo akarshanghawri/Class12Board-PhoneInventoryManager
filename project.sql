@@ -23,7 +23,7 @@ CREATE TABLE customer (customer_id INT,
     email VARCHAR(255),
     phone_no VARCHAR(15));
 
-INSERT INTO customer VALUES(01, '', 'Shailat', 'parvati@gmail.com', '+91 12345 67890'),
+INSERT INTO customer VALUES(01, 'Parvati', 'Shailat', 'parvati@gmail.com', '+91 12345 67890'),
     (02, 'Virat', 'Kohli', 'virat@gmail.com', '+91 98765 43210'),
     (03, 'Ayaan', 'Raazi', 'raazi@gmail.com', '+91 99999 55555'),
     (04, 'Ankit', 'Baiyanpuria', 'ankit@gmail.com', '+91 88888 44444'),
